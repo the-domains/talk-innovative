@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.811828
+color:
+  saturation: 0.6280301
+  lightness: 0.1876969
+  brandStrength: 0.797491
+  brandColors:
+    - '#0A71A2'
+    - '#FFFFFF'
+    - '#013856'
+    - '#808080'
+    - '#CFCFCF'
+  rhythmicContrast: 0.8380879
+name: TALK Innovative
